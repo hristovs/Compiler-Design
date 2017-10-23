@@ -29,7 +29,6 @@ program Test {
    }
 
    void main() {
-      int test := 5<3?6:1;
       write "Enter value for i (or 0 to stop): ";
       read i;
       while i > 0 {
